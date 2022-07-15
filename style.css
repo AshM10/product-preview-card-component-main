@@ -54,9 +54,6 @@ button:hover {
   background-color: hsl(158, 48%, 23%);
 }
 
-button span {
-  margin-bottom: 20px;
-}
 
 footer {
   text-align; center;
