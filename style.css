@@ -1,6 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
+  /* font */
   --main-font-family: "Fraunces", serif;
   --secondary-font-family: "Montserrat", sans-serif;
+  /* colors */
   --primary-dark-cyan: hsl(158, 36%, 37%);
   --primary-cream: hsl(30, 38%, 92%);
   --neutral-very-dark-blue: hsl(212, 21%, 14%);
@@ -10,4 +18,52 @@
 
 body {
   background-color: var(--primary-cream);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--secondary-font-family);
 }
+
+.main {
+  width: 100%;
+}
+
+.card {
+  width: 30%;
+  min-width: 600px;
+  background-color: var(--neutral-white);
+  margin: 0 auto;
+  display: flex;
+  border-radius: 8px;
+}
+
+/*
+.left-side {
+  background-image: url(/images/image-product-desktop.jpg);
+  width: 50%;
+  background-position: center;
+  background-size: cover;
+}
+
+
+.left-container {
+  width: 50%;
+  background-image: url(./images/image-product-desktop.jpg);
+  background-position: center;
+  background-size: cover;
+  border-radius: 0.6rem 0 0 0.6rem;
+}
+
+.right-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  row-gap: 1.5rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+*/
