@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/preview-card-desktop.jpg)
-![](./images/preview-card-mobile.jpg)
+![preview-card-desktop](https://user-images.githubusercontent.com/89284873/179295784-9678f38e-b059-4485-8f57-3f9516bd9fe4.png)
+<img width="336" alt="preview-card-mobile" src="https://user-images.githubusercontent.com/89284873/179295807-70e1058c-2246-44cc-9f0d-952cc5b37a9e.png">
 
 ### Links
 
