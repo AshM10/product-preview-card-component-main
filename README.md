@@ -13,6 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgment](#acknowledgment)
 
 ## Overview
 
@@ -63,3 +64,9 @@ I want to focus more on JavaScript and React projects.
 - Website - [Ash Moreno](https://www.ashmoreno.dev)
 - Frontend Mentor - [@AshM10](https://www.frontendmentor.io/profile/AshM10)
 - Twitter - [@sexy_gravy](https://twitter.com/home)
+
+## Acknowledgment
+
+Thank you Faizan for your input! ❤️
+
+![faizan](https://user-images.githubusercontent.com/89284873/179359652-e57b0ff2-0851-4430-a238-c2df64a97bcb.png)
