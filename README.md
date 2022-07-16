@@ -46,7 +46,7 @@ Users should be able to:
 Still getting the hang out of using flexbox.
 I used to always use bootstrap for grids, and this time I did not use it.
 
-To see how you can add code snippets, see below:
+I love using this transition:
 
 ```css
 button {
